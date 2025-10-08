@@ -1,2 +1,2 @@
 # Taller Práctico con GitHub
-Este proyecto muestra cómo usar GitHub para colaborar.
+Hola profe, este es mi proyecto de GIT basado en el taller :D
